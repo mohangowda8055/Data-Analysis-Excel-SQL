@@ -1,6 +1,6 @@
 # Data-Analysis-Excel-SQL
 ## Pizza Sales Analysis
-Here we imported data from My SQL DB, we fired SQL queries to validate results with our dashboard. We performed data cleaning, preprocessing and created dashboard. Data was analyzed with visualization, drawed conclusions and provided actionable recommendations based on the insights gained.
+Here we imported data from MySQL DB, we fired SQL queries to validate results with our dashboard. We performed data cleaning, preprocessing and created dashboard. Data was analyzed with visualization, drawed conclusions and provided actionable recommendations based on the insights gained.
 
 ![Screenshot (285)](https://github.com/mohangowda8055/Data-Analysis-Excel-SQL/assets/125982691/c93eea94-0b50-46b4-8577-d08f3e5df728)
 ### Problem Statement:
