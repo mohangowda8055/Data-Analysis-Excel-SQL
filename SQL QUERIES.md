@@ -1,4 +1,4 @@
-# PIZZA SALES SQL QUERIES
+# Pizza-Sales-SQL-Queries
 ### A. KPI’s:
 __1. Total Revenue:__<br>
 __SELECT__ __ROUND__(__SUM__(total_price), 2) __AS__ Total_Revenue __FROM__ pizza_sales;<br>
